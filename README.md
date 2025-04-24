@@ -1,6 +1,3 @@
-Aquí tienes un archivo **README.md** completo para tu proyecto de Distributed Task Queue System:
-
-```markdown
 # Distributed Task Queue System
 
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
@@ -28,7 +25,6 @@ Un sistema de cola de tareas distribuido que permite ejecutar tareas asíncronas
    ```bash
    git clone https://github.com/tu-usuario/distributed-task-queue.git
    cd distributed-task-queue
-   ```
 
 2. (Opcional) Crea un entorno virtual:
    ```bash
