@@ -23,7 +23,7 @@ Un sistema de cola de tareas distribuido que permite ejecutar tareas asíncronas
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/distributed-task-queue.git
+   git clone [https://github.com/tu-usuario/distributed-task-queue.git](https://github.com/CirveRescue/Distributed-Task-Queue-System.git)
    cd distributed-task-queue
 
 2. (Opcional) Crea un entorno virtual:
